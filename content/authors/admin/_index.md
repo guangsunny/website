@@ -1,7 +1,7 @@
 ---
 title: Guang Yang
 role: Hardware Engineer
-avatar_filename: 1578689916706.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include hardware engineering
 interests:
   - Embedded
