@@ -13,8 +13,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/guang-yang-8b565333/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Microsoft
+    url: ""
 education:
   courses:
     - course: PhD in Electrical Engineering
