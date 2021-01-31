@@ -1,10 +1,10 @@
 ---
-title: Guang Yang
-role: Hardware Engineer
+title: 
+role: Electrical & Hardware Engineer, R \&D, Manufacturing and Testing
 avatar_filename: avatar.jpg
-bio: My research interests include hardware engineering
+bio: emedded system design, hardware and software verification
 interests:
-  - Embedded
+  - Product development, sensor \& transducer design, board design and integration, emedded system design, hardware and software verification, experiment and simulation, R \&D and innovation
 social:
   - icon: graduation-cap
     icon_pack: fas
@@ -13,21 +13,23 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/guang-yang-8b565333/
 organizations:
-  - name: Microsoft
+  - name: 
     url: ""
+  - name: 
 education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Michigan State University
       year: 2013
-    - course: PhD in Instrumentation
-      institution: Jiaotong Shanghai University
+    - course: PhD in Instrumentation Science
+      institution: Shanghai Jiaotong University
       year: 2009
-    - course: Msc in ....
-      institution: ...
+    - course: Msc in Measuring and Testing Technologies
+      institution: ZhengZhou University
       year: 2008
 email: ""
 superuser: true
 highlight_name: false
 ---
-I am a hardware engineer with passion in robotics....
+Do not stop walking, do not stop improving...
+The human foot is a masterpiece of engineering and a work of art.

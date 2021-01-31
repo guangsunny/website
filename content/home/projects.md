@@ -27,10 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Embedded system 
+    tag: Embedded
+  - name: Acoustic tech.
+    tag: Acoustics
+  - name: Electromagnetic tech.
+    tag: Electromagnetics
+  - name: Simulation and signal processing
+    tag: FEM
+  - name: Wireless sensors
+    tag: Wireless
+  - name: Sensor and transducer
+    tag: Sensor and transducer
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

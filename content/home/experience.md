@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: R\&D Electrical Engineer in hardware design, product development, simulation and engineering
+    company:   
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: 
+    date_start: '2013-03-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Current company: Microsoft, Redmond, WA
         
-        * Analysing
-        * Modelling
-        * Deploying
         
-  - title: Professor
-    company: University X
+        * Professional skills: *Mixed signal, circuit board, embedded designs, power module, sensor&transducer, HW debug and software verification. *PCB and schematic layout, labs, instrumentation and bench testing.*Circuit analysis, modeling and simulation (FEM, FDTD).*Design of experiment, statistics analysis and signal processing.  
+
+  - title: Research Assistant in Nondestructive Evaluation laboratory
+    company: Michigan State University   
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: MI
+    date_start: '2009-01-01'
+    date_end: '2013-02-01'
+    description: |2-
+        Worked on projects funded by US Air Force Research Lab, Boeing and Electric Power Research Institute: 
+        
+        * Finite element modeling & simulation on acoustic and electromagnetic sensors and testing technologies.
+        * Automatic data analysis tool for steam generator tube inspection.
+        * matlab GUI interface, data post-processing, signal processing.
+        * Hardware, system development and experimental validation.   
+
+
+        
+  
 ---
