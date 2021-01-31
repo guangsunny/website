@@ -29,10 +29,10 @@ experience:
     date_start: '2013-03-01'
     date_end: ''
     description: |2-
-        Current company: Microsoft, Redmond, WA
-        
+           
         
         * Professional skills: *Mixed signal, circuit board, embedded designs, power module, sensor&transducer, HW debug and software verification. *PCB and schematic layout, labs, instrumentation and bench testing.*Circuit analysis, modeling and simulation (FEM, FDTD).*Design of experiment, statistics analysis and signal processing.  
+        * Current company: Microsoft (Redmond, WA), Jan 2020-Present
 
   - title: Research Assistant in Nondestructive Evaluation laboratory
     company: Michigan State University   
