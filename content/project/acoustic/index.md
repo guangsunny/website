@@ -9,7 +9,7 @@ share = false
 tags = ["Embedded","Sensor and transducer", "Acoustics", "FEM"]
 
 # Project summary to display on homepage.
-summary = "End to end product design for novel acoustic testing system"
+summary = "End-to-end product design for novel acoustic device/system"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -45,10 +45,10 @@ url_poster = ""
   focal_point = "Smart"
 +++
 
-* Acoustic transducer design, electronic board design, embedded design, firmware and hardware interface. 
-* Data acquisition and signal processing.  
-* Power supply board design, amplification and transducer control.   
-* COMSOL modeling for innovative acoustic transducers including prototyping and hardware validation. 
+* Acoustic transducer design, electronic board design, embedded design, firmware and hardware interface
+* Data acquisition and signal processing  
+* Power supply board design, amplification and transducer control  
+* COMSOL modeling for innovative acoustic transducers including prototyping and hardware validation 
 
 
 

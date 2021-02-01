@@ -45,10 +45,15 @@ url_poster = ""
   focal_point = "Smart"
 +++
 
-* Computational modeling, applied Mathematics
+The fully validated computational simulation is an essential tool in designing sensor/transducer configuration, optimization as well as in signal interpretation. Finite element models and applied mathmatics in time and frequency domain have been developed to invesitigate acoustic, ultrasonic and electromagnetic techniques. The models serve to predict and visualize field generation, frequency response, sensitivity, interaction with various geometries and structures, procedures for interpreting complex signal processing, and assist systematic design. 
+
+* Computational modeling, applied mathematics
+* Designs, optimization and verfications for sensors and transducers
 * COMSOL multiphysics, Ansys maxwell, Abaqus, LTspice 
 * Digital signal processing  
 * C/C++, python, matlab
 
 
+
+![where is it](/project/simulation/S.png)
 

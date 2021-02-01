@@ -2,9 +2,9 @@
 title: 
 role: Electrical & Hardware Engineer, R \&D, Manufacturing and Testing
 avatar_filename: avatar.jpg
-bio: emedded system design, hardware and software verification
+bio: emedded system design, SOC, ASIC, hardware and software verification
 interests:
-  - Product development, sensor \& transducer design, board design and integration, emedded system design, hardware and software verification, experiment and simulation, R \&D and innovation
+  - Product development, sensor \& transducer, board design and integration, SOC, ASIC, emedded system design, hardware and software verification, simulation, R&D and innovation
 social:
   - icon: graduation-cap
     icon_pack: fas

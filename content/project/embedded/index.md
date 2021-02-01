@@ -45,10 +45,10 @@ url_poster = ""
   focal_point = "Smart"
 +++
 
-* ADC/DAC, amplifier, FPGA, microcontroller, microprocessor, interfaces, peripherals, memories.
+* ADC/DAC, amplifier, FPGA, SOC, ASIC, microcontroller, microprocessor, interfaces, peripherals, memories
 * Firmware, linux, OS
 * Mixed signal and circuit board, power mangement, PCB layout and schematic
-* Sensors and transducers, transmitter and receiver. 
+* Sensors and transducers, transmitter and receiver 
 * Simulation and modeling, signal processing, Statistics 
 * C/C++, python, matlab
 * Xilinx Vivado, SDK, Keil uVision, Visual Studio, LabVIEW, COMSOL multiphysics, Altium Designer, Eagle, LTspice, JMP
