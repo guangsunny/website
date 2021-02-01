@@ -5,6 +5,7 @@ avatar_filename: avatar.jpg
 bio: emedded system design, SOC, ASIC, hardware and software verification
 interests:
   - Product development, sensor \& transducer, board design and integration, SOC, ASIC, emedded system design, hardware and software verification, simulation, R&D and innovation
+  - Publications:Google scholar link
 social:
   - icon: graduation-cap
     icon_pack: fas
