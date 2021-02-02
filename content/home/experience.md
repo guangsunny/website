@@ -31,7 +31,7 @@ experience:
     description: |2-
            
         
-        * Professional skills: *Mixed signal, circuit board, embedded design, power supply, sensor&transducer, HW testing and software verification. *PCB and schematic layout, labs, instrumentation and bench testing.   *Circuit analysis, modeling and simulation (FEM, FDTD). *Design of experiment, statistics analysis and signal processing. *Stm32 boards, Zynq boards, Arduino, Raspberry pi, FPGA, ARMs, DSP.                     
+        * Professional skills: *Mixed signal, circuit board, embedded design, power supply, sensor&transducer, HW testing and software verification. *PCB and schematic layout, labs, instrumentation and bench testing.   *Circuit analysis, modeling and simulation (FEM, FDTD). *Design of experiment, statistics analysis and signal processing. *Stm32 boards, Zynq boards, Arduino, Raspberry pi, FPGA, ARMs, DSP, firmware.                     
  
         * Current company: Microsoft in Redmond WA, Jan 2020-Present 
 
