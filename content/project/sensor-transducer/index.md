@@ -1,5 +1,5 @@
 +++
-title = "Sensors and transducers technology development"
+title = "Sensors and transducers technology, system development and integration"
 # date = 2014-07-01
 draft = false
 share = false
@@ -46,6 +46,7 @@ url_poster = ""
 +++
 
 * ADC/DAC, amplification, filter, data acquisition
+* MEMS sensor, embedded and system design
 * Signal conditioning and processing
 * Numerical simulation and hardware verification  
  
