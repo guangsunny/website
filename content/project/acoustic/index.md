@@ -46,7 +46,7 @@ url_poster = ""
 +++
 
 * Acoustic transducer design, electronic board design, embedded design, firmware and hardware interface
-* Data acquisition and signal processing  
+* Data acquisition and signal processing system 
 * Power supply board design, amplification and transducer control  
 * COMSOL modeling for innovative acoustic transducers including prototyping and hardware validation 
 

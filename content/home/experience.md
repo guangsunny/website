@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: R\&D Electrical Engineer in hardware design, product development, manufacturing testing and engineering
+  - title: R\&D Electrical Engineer in hardware and system design, product development, testing and engineering
     company:   
     company_url: ''
     location: 
@@ -31,7 +31,7 @@ experience:
     description: |2-
            
         
-        * Professional skills: *Mixed signal, circuit board, embedded design, power supply, sensor&transducer, HW testing and software verification, product qualification. *PCB and schematic layout, labs, instrumentation and bench testing.   *Circuit analysis, modeling and simulation. *Design of experiment, statistics analysis and data processing. *Stm32 boards, Zynq boards, Arduino, Raspberry pi, FPGA, ARMs, DSP, firmware.                     
+        * Professional skills: *Mixed signal, circuit board, embedded design, power supply, sensor&transducer, HW testing and software verification, product qualification, manufacturing test, system integration.  *PCB and schematic layout, labs, instrumentation and bench testing.   *Circuit analysis, modeling and simulation. *Design of experiment, statistics analysis and data processing, failure analysis. *Stm32 boards, Zynq boards, Arduino, Raspberry pi, FPGA, ARMs, DSP, firmware.                     
  
         * Current company: Microsoft in Redmond WA, Jan 2020-Present 
 
@@ -45,9 +45,9 @@ experience:
         Worked on projects funded by US Air Force Research Lab, Boeing and Electric Power Research Institute: 
         
         * Finite element modeling & simulation on acoustic and electromagnetic sensors and testing technologies.
-        * Automatic data analysis tool for steam generator tube inspection.
+        * Automatic data analysis tool for testing and inspection.
         * matlab GUI interface, data post-processing, signal processing.
-        * Hardware, system development and experimental validation.   
+        * Hardware, system development and experimental validation, model-based design.   
 
 
         
