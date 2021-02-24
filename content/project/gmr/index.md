@@ -9,7 +9,7 @@ share = false
 tags = ["Sensor and transducer", "Electromagnetics", "FEM"]
 
 # Project summary to display on homepage.
-summary = "Developed advanced and innovative electromagnetic testing system and techniques "
+summary = "Developed advanced and innovative electromagnetic testing system and techniques."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
