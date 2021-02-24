@@ -53,5 +53,6 @@ url_code = ""
 The use of wireless sensor networks in structural health monitoring can significantly increase safety and reduce manufacturing and maintenance costs. Acoustic guided wave sensors with wireless sensor modules for continuous monitoring of civil structures have been integrated in this project. The wireless sensors eliminate the need for cables, reducing overall structure weight, and single points of failure. We designed sensor interface boards for the Iris wireless nodes allowing transmitting and receiving acoustic waves using piezoelectric sensors. A distributed control algorithm is also implemented for controlling a wireless sensor network from a base station. The experimental investigation and numerical simulation have been implemented. 
 
 * Acoustic transducer and wireless hardware interface. 
+* Wireless communication and data analysis
 * COMSOL multiphysics, Ansys maxwell, Abaqus   
 

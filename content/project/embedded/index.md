@@ -51,5 +51,5 @@ url_poster = ""
 * Sensors and transducers, transmitter and receiver 
 * Simulation and modeling, signal processing, Statistics 
 * C/C++, python, matlab
-* Xilinx Vivado, SDK, Keil uVision, Visual Studio, LabVIEW, COMSOL multiphysics, Altium Designer, Eagle, LTspice, JMP
+* Xilinx Vivado, SDK, Keil uVision, Visual Studio, LabVIEW, COMSOL multiphysics, Altium Designer, Allegro, Eagle, LTspice, JMP
 
