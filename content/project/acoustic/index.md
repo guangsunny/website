@@ -9,7 +9,7 @@ share = false
 tags = ["Embedded","Sensor and transducer", "Acoustics", "FEM"]
 
 # Project summary to display on homepage.
-summary = "End-to-end product design for novel acoustic device and system"
+summary = "End-to-end product design for novel acoustic sensing and system"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.

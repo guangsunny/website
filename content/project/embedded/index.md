@@ -9,7 +9,7 @@ share = false
 tags = ["Embedded","Sensor and transducer", "Acoustics", "Wireless"]
 
 # Project summary to display on homepage.
-summary = "Building hardware, electronics, circuits, and testing systems for audio, video, AR/VR, acoustic and electromagnetic applications."
+summary = "Building hardware, electronics, circuits, and testing systems for sensors, audio, video, AR/VR, wirless, high-speed and PCB applications."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
